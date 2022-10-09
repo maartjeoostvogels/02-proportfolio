@@ -1,0 +1,20 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color:black
+  }
+  
+p {
+    line-height: 100px;
+    color:rgb(255, 155, 0);
+    font-weight: bold;
+  }
+
+.list {
+    color:rgb(0, 61, 165);
+  }
+
+#fun {
+    color:rgb(200,16,46);
+    font-stretch: extra-expanded;
+}
