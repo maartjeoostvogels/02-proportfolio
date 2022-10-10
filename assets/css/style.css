@@ -47,13 +47,22 @@ a {
 }
 
 a:hover {
-  font-weight: bold;
+  text-decoration: underline;
   opacity: 0.8;
 }
 
 .labelled-image {
   display: block;
   position: relative;
+}
+
+.labelled-image-2 {
+  display: flex;
+  width: 70%;
+}
+
+.labelled-image-2 img {
+  margin-right: 1em;
 }
 
 .labelled-image span {
